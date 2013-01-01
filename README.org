@@ -21,7 +21,7 @@
 
 - You can also compile your own source file by command in the present directory:
 
-- python main.py your_own_file > target_file.txt
+- python python/main.py test_file/bubble_sort.snl > target_file.txt
 *** In Windows, Follow those steps:
 - Put python in your PATH
 
@@ -29,7 +29,7 @@
 
 - In a console, enter directory snl_frontend
 
-- python main.py bubble_sort.snl > target_file.txt
+- python python/main.py test_file/bubble_sort.snl > syntactic_analysis.txt
 
 - Then two new file named syntactic_analysis.txt and lexical_analysis.txt is created.
 
@@ -39,4 +39,4 @@
 
 - You can also compile your own source file by command in the present directory:
 
-- python main.py your_own_file > target_file.txt
+- python python/main.py test_file/bubble_sort.snl > target_file.txt
