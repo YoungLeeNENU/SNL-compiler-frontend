@@ -13,11 +13,11 @@
 
 - ./make.sh
 
-- Then two new file named syntactic_analysis.txt and lexical_analysis.txt is created.
+- Then two new file named syntactic_analysis and lexical_analysis is created.
 
-- Check the new file lexical_analysis.txt. It saved the result of bubble_sort.snl's lexical analysis.
+- Check the new file lexical_analysis. It saved the result of bubble_sort.snl's lexical analysis.
 
-- Check the new file syntactic_analysis.txt. It saved the result of bubble_sort.snl's syntactic analysis.
+- Check the new file syntactic_analysis. It saved the result of bubble_sort.snl's syntactic analysis.
 
 - You can also compile your own source file by command in the present directory:
 
@@ -31,11 +31,11 @@
 
 - python python/main.py test_file/bubble_sort.snl > syntactic_analysis
 
-- Then two new file named syntactic_analysis.txt and lexical_analysis.txt is created.
+- Then two new file named syntactic_analysis and lexical_analysis is created.
 
-- Check the new file lexical_analysis.txt. It saved the result of bubble_sort.snl's lexical analysis.
+- Check the new file lexical_analysis. It saved the result of bubble_sort.snl's lexical analysis.
 
-- Check the new file syntactic_analysis.txt. It saved the result of bubble_sort.snl's syntactic analysis.
+- Check the new file syntactic_analysis. It saved the result of bubble_sort.snl's syntactic analysis.
 
 - You can also compile your own source file by command in the present directory:
 
